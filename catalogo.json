@@ -1,0 +1,168 @@
+{
+ "format": 1,
+ "published": "2026-11-25T20:44:33.079Z",
+ "signature": "b2ff0ef8fb4f",
+ "version": 3,
+ "branches": {
+  "origin": {
+   "name": "Inicio",
+   "color": "ink"
+  },
+  "filo": {
+   "name": "Filosofía",
+   "color": "filo",
+   "prefix": "F",
+   "angle": -8,
+   "book": "Meditaciones",
+   "subtitle": "Meditaciones · Marco Aurelio",
+   "labelX": 430,
+   "labelY": -312,
+   "desc": "Ideas para vivir mejor, empezando por las <em>Meditaciones</em> de Marco Aurelio.",
+   "version": "b84f2c04c571",
+   "file": "ramas/filo.json",
+   "ideas": 11,
+   "bytes": 19012
+  },
+  "astro": {
+   "name": "Astronomía",
+   "color": "astro",
+   "prefix": "A",
+   "angle": 60,
+   "subtitle": "Escalas del cosmos",
+   "desc": "Del Sistema Solar al universo observable: escalas que marean.",
+   "version": "e406235cef4c",
+   "file": "ramas/astro.json",
+   "ideas": 3,
+   "bytes": 4891
+  },
+  "fis": {
+   "name": "Física",
+   "color": "fis",
+   "prefix": "FI",
+   "angle": 88,
+   "subtitle": "Energía y tiempo",
+   "desc": "Energía, tiempo y las leyes que mueven todo.",
+   "version": "a64c560411fc",
+   "file": "ramas/fis.json",
+   "ideas": 0,
+   "bytes": 148
+  },
+  "quim": {
+   "name": "Química",
+   "color": "quim",
+   "prefix": "QU",
+   "angle": 115,
+   "subtitle": "La materia",
+   "desc": "De qué está hecho el mundo y cómo se transforma.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/quim.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "bio": {
+   "name": "Biología",
+   "color": "bio",
+   "prefix": "B",
+   "angle": 142,
+   "subtitle": "La vida",
+   "desc": "La vida y sus reglas: evolución, células y genes.",
+   "version": "20c729f2c859",
+   "file": "ramas/bio.json",
+   "ideas": 0,
+   "bytes": 149
+  },
+  "bota": {
+   "name": "Botánica",
+   "color": "bota",
+   "prefix": "BO",
+   "angle": 168,
+   "subtitle": "Plantas del mundo",
+   "photos": true,
+   "desc": "Plantas asombrosas, con fotos: cómo viven, comen y se defienden.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/bota.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "zoo": {
+   "name": "Animales",
+   "color": "zoo",
+   "prefix": "AN",
+   "angle": 196,
+   "subtitle": "Vida animal",
+   "photos": true,
+   "desc": "Cuerpos y comportamientos sorprendentes, con fotos.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/zoo.json",
+   "ideas": 0,
+   "bytes": 63
+  },
+  "arte": {
+   "name": "Arte",
+   "color": "arte",
+   "prefix": "AR",
+   "angle": 225,
+   "subtitle": "Obras y miradas",
+   "photos": true,
+   "desc": "Obras que cambiaron la forma de mirar, con sus imágenes.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/arte.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "hist": {
+   "name": "Historia",
+   "color": "hist",
+   "prefix": "H",
+   "angle": 255,
+   "subtitle": "Roma antigua",
+   "desc": "Cómo llegamos hasta aquí: Roma y los momentos que cambiaron el mundo.",
+   "version": "6d61e853a464",
+   "file": "ramas/hist.json",
+   "ideas": 2,
+   "bytes": 3765
+  },
+  "mate": {
+   "name": "Matemáticas",
+   "color": "mate",
+   "prefix": "M",
+   "angle": 290,
+   "subtitle": "Azar y crecimiento",
+   "desc": "Azar, crecimiento y herramientas para pensar con números.",
+   "version": "28d5d013aeb5",
+   "file": "ramas/mate.json",
+   "ideas": 2,
+   "bytes": 3225
+  }
+ },
+ "origin": {
+  "id": "O",
+  "branch": "origin",
+  "x": 0,
+  "y": 0,
+  "short": "Inicio",
+  "icon": "spark"
+ },
+ "bridges": [
+  [
+   "H1",
+   "F1"
+  ],
+  [
+   "M1",
+   "F5"
+  ],
+  [
+   "H2",
+   "M2"
+  ],
+  [
+   "F9",
+   "A2"
+  ],
+  [
+   "F10",
+   "A3"
+  ]
+ ]
+}
