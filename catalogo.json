@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T12:20:32.695Z",
- "signature": "0b254b1daa54",
+ "published": "2026-11-26T15:38:25.510Z",
+ "signature": "20137a41466c",
  "version": 3,
  "branches": {
   "origin": {
@@ -173,10 +173,10 @@
    "family": "Culturas",
    "subtitle": "Japón",
    "desc": "Estética, oficios y formas de mirar de Japón.",
-   "version": "a461bf77bc4e",
+   "version": "9b7893ebbf17",
    "file": "ramas/cjap.json",
-   "ideas": 0,
-   "bytes": 64
+   "ideas": 1,
+   "bytes": 88254
   },
   "cind": {
    "name": "Cultura india",
