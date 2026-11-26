@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-25T20:44:33.079Z",
- "signature": "b2ff0ef8fb4f",
+ "published": "2026-11-26T06:34:15.282Z",
+ "signature": "9468ed4e689f",
  "version": 3,
  "branches": {
   "origin": {
@@ -42,10 +42,10 @@
    "angle": 88,
    "subtitle": "Energía y tiempo",
    "desc": "Energía, tiempo y las leyes que mueven todo.",
-   "version": "a64c560411fc",
+   "version": "0eba077e6df4",
    "file": "ramas/fis.json",
-   "ideas": 0,
-   "bytes": 148
+   "ideas": 1,
+   "bytes": 54902
   },
   "quim": {
    "name": "Química",
@@ -66,10 +66,10 @@
    "angle": 142,
    "subtitle": "La vida",
    "desc": "La vida y sus reglas: evolución, células y genes.",
-   "version": "20c729f2c859",
+   "version": "a461bf77bc4e",
    "file": "ramas/bio.json",
    "ideas": 0,
-   "bytes": 149
+   "bytes": 63
   },
   "bota": {
    "name": "Botánica",
@@ -117,10 +117,10 @@
    "angle": 255,
    "subtitle": "Roma antigua",
    "desc": "Cómo llegamos hasta aquí: Roma y los momentos que cambiaron el mundo.",
-   "version": "6d61e853a464",
+   "version": "de6f85ca019f",
    "file": "ramas/hist.json",
    "ideas": 2,
-   "bytes": 3765
+   "bytes": 3670
   },
   "mate": {
    "name": "Matemáticas",
@@ -129,12 +129,13 @@
    "angle": 290,
    "subtitle": "Azar y crecimiento",
    "desc": "Azar, crecimiento y herramientas para pensar con números.",
-   "version": "28d5d013aeb5",
+   "version": "3aaa0e1cd5b7",
    "file": "ramas/mate.json",
    "ideas": 2,
-   "bytes": 3225
+   "bytes": 3138
   }
  },
+ "hubs": {},
  "origin": {
   "id": "O",
   "branch": "origin",
@@ -164,5 +165,6 @@
    "F10",
    "A3"
   ]
- ]
+ ],
+ "logros": []
 }
