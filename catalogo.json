@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T12:03:48.608Z",
- "signature": "24f6691d8c0f",
+ "published": "2026-11-26T12:20:32.695Z",
+ "signature": "0b254b1daa54",
  "version": 3,
  "branches": {
   "origin": {
@@ -357,7 +357,7 @@
     "branch": "astro"
    },
    "medal": {
-    "shape": "moneda",
+    "shape": "estrella",
     "metal": "bronce",
     "color": "astro",
     "icon": "star"
