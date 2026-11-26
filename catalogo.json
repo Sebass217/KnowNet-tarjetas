@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T12:00:18.597Z",
- "signature": "3efdcd6a72d0",
+ "published": "2026-11-26T12:03:48.608Z",
+ "signature": "24f6691d8c0f",
  "version": 3,
  "branches": {
   "origin": {
@@ -345,6 +345,22 @@
     "metal": "bronce",
     "color": "gold",
     "icon": "laurel"
+   }
+  },
+  {
+   "id": "L2",
+   "name": "Interes en el cielo",
+   "desc": "Se puede ver tu interes, apunta a las estrellas!",
+   "rule": {
+    "type": "rama",
+    "n": 5,
+    "branch": "astro"
+   },
+   "medal": {
+    "shape": "moneda",
+    "metal": "bronce",
+    "color": "astro",
+    "icon": "star"
    }
   }
  ]
