@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T09:06:08.395Z",
- "signature": "619b3ab75e94",
+ "published": "2026-11-26T09:46:07.174Z",
+ "signature": "4cfbe9318e77",
  "version": 3,
  "branches": {
   "origin": {
@@ -30,10 +30,10 @@
    "angle": 60,
    "subtitle": "Escalas del cosmos",
    "desc": "Del Sistema Solar al universo observable: escalas que marean.",
-   "version": "e406235cef4c",
+   "version": "e2e68989ecd4",
    "file": "ramas/astro.json",
    "ideas": 3,
-   "bytes": 4891
+   "bytes": 4858
   },
   "fis": {
    "name": "Física",
