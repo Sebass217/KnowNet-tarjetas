@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T09:46:07.174Z",
- "signature": "4cfbe9318e77",
+ "published": "2026-11-26T11:38:26.411Z",
+ "signature": "23f3f4aeb7f4",
  "version": 3,
  "branches": {
   "origin": {
@@ -18,6 +18,7 @@
    "labelX": 430,
    "labelY": -312,
    "desc": "Ideas para vivir mejor, empezando por las <em>Meditaciones</em> de Marco Aurelio.",
+   "family": "Humanidades",
    "version": "b84f2c04c571",
    "file": "ramas/filo.json",
    "ideas": 11,
@@ -30,10 +31,11 @@
    "angle": 60,
    "subtitle": "Escalas del cosmos",
    "desc": "Del Sistema Solar al universo observable: escalas que marean.",
-   "version": "e2e68989ecd4",
+   "family": "Ciencias",
+   "version": "1505515f2461",
    "file": "ramas/astro.json",
-   "ideas": 3,
-   "bytes": 4858
+   "ideas": 4,
+   "bytes": 32820
   },
   "fis": {
    "name": "Física",
@@ -42,6 +44,7 @@
    "angle": 88,
    "subtitle": "Energía y tiempo",
    "desc": "Energía, tiempo y las leyes que mueven todo.",
+   "family": "Ciencias",
    "version": "87dd475f9ede",
    "file": "ramas/fis.json",
    "ideas": 3,
@@ -54,6 +57,7 @@
    "angle": 115,
    "subtitle": "La materia",
    "desc": "De qué está hecho el mundo y cómo se transforma.",
+   "family": "Ciencias",
    "version": "017fe2acb5ff",
    "file": "ramas/quim.json",
    "ideas": 3,
@@ -66,6 +70,7 @@
    "angle": 142,
    "subtitle": "La vida",
    "desc": "La vida y sus reglas: evolución, células y genes.",
+   "family": "Naturaleza",
    "version": "48b8974f2443",
    "file": "ramas/bio.json",
    "ideas": 3,
@@ -79,6 +84,7 @@
    "subtitle": "Plantas del mundo",
    "photos": true,
    "desc": "Plantas asombrosas, con fotos: cómo viven, comen y se defienden.",
+   "family": "Naturaleza",
    "version": "024e2c35db58",
    "file": "ramas/bota.json",
    "ideas": 3,
@@ -92,6 +98,7 @@
    "subtitle": "Vida animal",
    "photos": true,
    "desc": "Cuerpos y comportamientos sorprendentes, con fotos.",
+   "family": "Naturaleza",
    "version": "85c733c768e0",
    "file": "ramas/zoo.json",
    "ideas": 3,
@@ -105,6 +112,7 @@
    "subtitle": "Obras y miradas",
    "photos": true,
    "desc": "Obras que cambiaron la forma de mirar, con sus imágenes.",
+   "family": "Humanidades",
    "version": "7ff2493ca1ce",
    "file": "ramas/arte.json",
    "ideas": 3,
@@ -117,6 +125,7 @@
    "angle": 255,
    "subtitle": "Roma antigua",
    "desc": "Cómo llegamos hasta aquí: Roma y los momentos que cambiaron el mundo.",
+   "family": "Humanidades",
    "version": "665d72472c05",
    "file": "ramas/hist.json",
    "ideas": 3,
@@ -129,13 +138,124 @@
    "angle": 290,
    "subtitle": "Azar y crecimiento",
    "desc": "Azar, crecimiento y herramientas para pensar con números.",
+   "family": "Ciencias",
    "version": "a9b15f148b5b",
    "file": "ramas/mate.json",
    "ideas": 3,
    "bytes": 11676
+  },
+  "cgen": {
+   "name": "Cultura general",
+   "prefix": "CG",
+   "colors": {
+    "light": "#8A5A2B",
+    "dark": "#E0B07A"
+   },
+   "hub": "cult",
+   "angle": 240,
+   "family": "Culturas",
+   "subtitle": "De todo un poco",
+   "desc": "Costumbres, símbolos e historias que conviene conocer.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/cgen.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "cjap": {
+   "name": "Cultura japonesa",
+   "prefix": "CJ",
+   "colors": {
+    "light": "#B3123C",
+    "dark": "#FF7C98"
+   },
+   "hub": "cult",
+   "angle": 180,
+   "family": "Culturas",
+   "subtitle": "Japón",
+   "desc": "Estética, oficios y formas de mirar de Japón.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/cjap.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "cind": {
+   "name": "Cultura india",
+   "prefix": "CI",
+   "colors": {
+    "light": "#C0570F",
+    "dark": "#FFA65E"
+   },
+   "hub": "cult",
+   "angle": 305,
+   "family": "Culturas",
+   "subtitle": "India",
+   "desc": "Relatos, fiestas y saberes de la India.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/cind.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "salm": {
+   "name": "Salud mental",
+   "prefix": "SM",
+   "colors": {
+    "light": "#4A63C6",
+    "dark": "#9DB2FF"
+   },
+   "hub": "bien",
+   "angle": 98,
+   "family": "Bienestar",
+   "subtitle": "La mente",
+   "health": true,
+   "desc": "Cómo funcionan las emociones, el estrés y el descanso, con fuentes.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/salm.json",
+   "ideas": 0,
+   "bytes": 64
+  },
+  "salf": {
+   "name": "Salud física",
+   "prefix": "SF",
+   "colors": {
+    "light": "#1E8A5A",
+    "dark": "#6FDDA6"
+   },
+   "hub": "bien",
+   "angle": 158,
+   "family": "Bienestar",
+   "subtitle": "El cuerpo",
+   "health": true,
+   "desc": "Movimiento, sueño y cuerpo: lo que dicen los estudios, con fuentes.",
+   "version": "a461bf77bc4e",
+   "file": "ramas/salf.json",
+   "ideas": 0,
+   "bytes": 64
   }
  },
- "hubs": {},
+ "hubs": {
+  "cult": {
+   "name": "Culturas",
+   "x": -750,
+   "y": -1300,
+   "colors": {
+    "light": "#8A5A2B",
+    "dark": "#E0B07A"
+   },
+   "icon": "mask",
+   "desc": "Formas de vivir, creer y crear de los pueblos del mundo."
+  },
+  "bien": {
+   "name": "Bienestar",
+   "x": -920,
+   "y": 1180,
+   "colors": {
+    "light": "#2B7C8C",
+    "dark": "#74CFE0"
+   },
+   "icon": "heart",
+   "desc": "Conocer el cuerpo y la mente para cuidarlos mejor."
+  }
+ },
  "origin": {
   "id": "O",
   "branch": "origin",
@@ -196,6 +316,18 @@
   [
    "QU3",
    "B3"
+  ],
+  [
+   "H1",
+   "HUB-cult"
+  ],
+  [
+   "B1",
+   "HUB-bien"
+  ],
+  [
+   "A4",
+   "FI2"
   ]
  ],
  "logros": [
