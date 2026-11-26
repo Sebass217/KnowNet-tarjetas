@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T06:39:36.415Z",
- "signature": "50a3190130c3",
+ "published": "2026-11-26T09:06:08.395Z",
+ "signature": "619b3ab75e94",
  "version": 3,
  "branches": {
   "origin": {
@@ -42,10 +42,10 @@
    "angle": 88,
    "subtitle": "Energía y tiempo",
    "desc": "Energía, tiempo y las leyes que mueven todo.",
-   "version": "0eba077e6df4",
+   "version": "87dd475f9ede",
    "file": "ramas/fis.json",
-   "ideas": 1,
-   "bytes": 54902
+   "ideas": 3,
+   "bytes": 248388
   },
   "quim": {
    "name": "Química",
@@ -54,10 +54,10 @@
    "angle": 115,
    "subtitle": "La materia",
    "desc": "De qué está hecho el mundo y cómo se transforma.",
-   "version": "a461bf77bc4e",
+   "version": "017fe2acb5ff",
    "file": "ramas/quim.json",
-   "ideas": 0,
-   "bytes": 64
+   "ideas": 3,
+   "bytes": 22043
   },
   "bio": {
    "name": "Biología",
@@ -66,10 +66,10 @@
    "angle": 142,
    "subtitle": "La vida",
    "desc": "La vida y sus reglas: evolución, células y genes.",
-   "version": "a461bf77bc4e",
+   "version": "48b8974f2443",
    "file": "ramas/bio.json",
-   "ideas": 0,
-   "bytes": 63
+   "ideas": 3,
+   "bytes": 138424
   },
   "bota": {
    "name": "Botánica",
@@ -79,10 +79,10 @@
    "subtitle": "Plantas del mundo",
    "photos": true,
    "desc": "Plantas asombrosas, con fotos: cómo viven, comen y se defienden.",
-   "version": "a461bf77bc4e",
+   "version": "024e2c35db58",
    "file": "ramas/bota.json",
-   "ideas": 0,
-   "bytes": 64
+   "ideas": 3,
+   "bytes": 206367
   },
   "zoo": {
    "name": "Animales",
@@ -92,10 +92,10 @@
    "subtitle": "Vida animal",
    "photos": true,
    "desc": "Cuerpos y comportamientos sorprendentes, con fotos.",
-   "version": "a461bf77bc4e",
+   "version": "85c733c768e0",
    "file": "ramas/zoo.json",
-   "ideas": 0,
-   "bytes": 63
+   "ideas": 3,
+   "bytes": 409503
   },
   "arte": {
    "name": "Arte",
@@ -105,10 +105,10 @@
    "subtitle": "Obras y miradas",
    "photos": true,
    "desc": "Obras que cambiaron la forma de mirar, con sus imágenes.",
-   "version": "a461bf77bc4e",
+   "version": "7ff2493ca1ce",
    "file": "ramas/arte.json",
-   "ideas": 0,
-   "bytes": 64
+   "ideas": 3,
+   "bytes": 486785
   },
   "hist": {
    "name": "Historia",
@@ -117,10 +117,10 @@
    "angle": 255,
    "subtitle": "Roma antigua",
    "desc": "Cómo llegamos hasta aquí: Roma y los momentos que cambiaron el mundo.",
-   "version": "de6f85ca019f",
+   "version": "665d72472c05",
    "file": "ramas/hist.json",
-   "ideas": 2,
-   "bytes": 3670
+   "ideas": 3,
+   "bytes": 5871
   },
   "mate": {
    "name": "Matemáticas",
@@ -129,10 +129,10 @@
    "angle": 290,
    "subtitle": "Azar y crecimiento",
    "desc": "Azar, crecimiento y herramientas para pensar con números.",
-   "version": "3aaa0e1cd5b7",
+   "version": "a9b15f148b5b",
    "file": "ramas/mate.json",
-   "ideas": 2,
-   "bytes": 3138
+   "ideas": 3,
+   "bytes": 11676
   }
  },
  "hubs": {},
@@ -164,6 +164,38 @@
   [
    "F10",
    "A3"
+  ],
+  [
+   "AR2",
+   "A3"
+  ],
+  [
+   "QU2",
+   "F9"
+  ],
+  [
+   "B1",
+   "A2"
+  ],
+  [
+   "B1",
+   "BO2"
+  ],
+  [
+   "FI1",
+   "QU2"
+  ],
+  [
+   "FI2",
+   "A1"
+  ],
+  [
+   "B3",
+   "H2"
+  ],
+  [
+   "QU3",
+   "B3"
   ]
  ],
  "logros": [
