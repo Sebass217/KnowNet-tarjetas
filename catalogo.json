@@ -1,7 +1,7 @@
 {
  "format": 1,
- "published": "2026-11-26T06:34:15.282Z",
- "signature": "9468ed4e689f",
+ "published": "2026-11-26T06:39:36.415Z",
+ "signature": "50a3190130c3",
  "version": 3,
  "branches": {
   "origin": {
@@ -166,5 +166,22 @@
    "A3"
   ]
  ],
- "logros": []
+ "logros": [
+  {
+   "id": "L1",
+   "name": "Amante de la historia",
+   "desc": "Dominaste 10 tarjetas de historia",
+   "rule": {
+    "type": "rama",
+    "n": 10,
+    "branch": "hist"
+   },
+   "medal": {
+    "shape": "cinta",
+    "metal": "bronce",
+    "color": "gold",
+    "icon": "laurel"
+   }
+  }
+ ]
 }
